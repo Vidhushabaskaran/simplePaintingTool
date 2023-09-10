@@ -1,6 +1,6 @@
 # Simple Drawing Tool
 
-simple matplotlib based drawing tool!
+Simple python and matplotlib based drawing tool!
 
 created demo images:
 
